@@ -1,2 +1,2 @@
 # SQL_Project
-This repo contain SQL project from data camp
+This repo contain my SQL project from data camp
